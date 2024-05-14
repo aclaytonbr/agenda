@@ -22,6 +22,12 @@ export class AgendaMock {
                 nome: "Ciclano de tal",
                 telefone: "92 5555-5555",
                 endereco: "Rua sem rumo, s/n"
+            },
+            {
+                id: 3,
+                nome: "Beltrano de tal",
+                telefone: "92 6666-6666",
+                endereco: "Rua sem rumo, s/n"
             }
         ]
     }
